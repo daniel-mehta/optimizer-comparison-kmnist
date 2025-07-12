@@ -56,7 +56,7 @@ Feedforward neural network implemented in PyTorch:
 brain-tumor-cnn/
 ├── notebook/
 │   ├── brain_tumor_classifier_cnn.ipynb            # Main notebook
-│   └── Midterm_5502_brain_tumor_image.pdf           # PDF version of notebook
+│   └── AIGC 5500 Midterm Project Code_PDF.pdf      # PDF version of notebook
 │
 ├── reports/
 │   ├── 5502_Report_Brain_Tumor_Classification.pdf        # Final report
